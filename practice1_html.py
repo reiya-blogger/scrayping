@@ -1,0 +1,1 @@
+<a target="_blank" rel="noopener noreferrer" href="http://amacbee.hatenablog.com/entry/2016/12/01/210436">scrapy-splashを使ってJavaScript利用ページを簡単スクレイピング <span class="fa fa-external-link"></span></a>
